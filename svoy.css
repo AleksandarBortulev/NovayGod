@@ -1,0 +1,65 @@
+.menu a{
+	color: white;
+	text-decoration: none;
+	padding: 30px 50px 30px 40px;
+	width: 100px;
+	background-attachment: fixed;
+}
+.menu{
+	text-align: center;
+	background-image: url(mota_ru_0121606.jpg);
+	margin: 0px -8px;
+	padding: 1%;
+	background-attachment: fixed;
+	height: 50px;
+}
+.heador{
+	color: white;
+	background-image: url(novyy-god-happy-new-year-353.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 200px 0;
+	text-align: center;
+	background-attachment: fixed;
+	margin: -20px -8px;
+}
+.heador a{
+	display: inline-block;
+	text-decoration: none;
+	padding: 12px 24px;
+	background-color: white;
+	border-radius: 10px;
+	color: black;
+}
+.company{
+	background-image: url(novyy-god-happy-new-year-3617.jpg);
+	background-attachment: fixed;
+	color: white;
+	margin: -20px -8px;
+	padding: 105px;
+}
+.company p,h2{
+	text-align: center;
+}
+.a1{
+	text-align: center;
+	background-image: url(shariki-novyy-god-prazdnik-4706.jpg);
+	background-attachment: fixed;
+	margin: -20px -8px;
+	width: 101.05%;
+	padding: 60px 50px;
+}
+.a2{
+	background-image: url(look.com.ua-12879.jpg);
+	background-attachment: fixed;
+	color: white;
+	margin: -20px -8px;
+	text-align: center;
+	padding: 105px;
+}
+.a3 h2{
+	text-align: center;
+}
+.a2 a{
+	color: white;
+}
